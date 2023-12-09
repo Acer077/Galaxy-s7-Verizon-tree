@@ -8,4 +8,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-G930VVRU8CRJ3
+G930VVRU8CRJ3_Android8.0.0(Oreo)
